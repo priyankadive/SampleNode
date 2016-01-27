@@ -1,5 +1,5 @@
 /*The file main.js is small node js application*/
 Pre-requisites node.js should be installed.
 Run using #node main.js
-Visit URL http://117.0.0.1:8086
+Visit URL http://127.0.0.1:8086
 It will display Hello World!
